@@ -3,7 +3,7 @@ Code for "JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Represe
 
 
 ├── Dataset/ # Safety, harmful, and jailbreak prompt used in our work  
-    ├── Autodan  
+&emsp;&emsp;├── Autodan  
     ├── CodeChameleon  
     ├── Deepinception  
     ├── gcg  
